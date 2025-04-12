@@ -1,0 +1,13 @@
+theme: minima
+
+title: WAVESTORMS
+description: description
+skin: auto
+
+# Navigation menu
+header_pages:
+  - index.md
+  - about.md
+  - publications.md
+
+show_excerpts: true 
