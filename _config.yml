@@ -8,6 +8,8 @@ skin: auto
 header_pages:
   - index.md
   - about.md
+  - members.md
+  - research.md
   - publications.md
 
 show_excerpts: true 
