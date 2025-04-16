@@ -5,7 +5,7 @@ title: WAVESTORMS
 skin: auto
 
 # Navigation menu
-header_pages:
+nav_pages:
   - index.md
   - about.md
   - members.md
