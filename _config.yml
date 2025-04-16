@@ -1,7 +1,10 @@
 theme: minima
 
 title: WAVESTORMS
-description: description
+author:
+  name: wavestorms
+
+# description: description
 skin: auto
 
 # Navigation menu
@@ -13,3 +16,8 @@ header_pages:
   - publications.md
 
 show_excerpts: true 
+
+social_links:
+  - title: Wavestorms at GitHub
+    icon: github
+    url: "https://github.com/wavestorms"
