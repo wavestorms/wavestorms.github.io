@@ -34,6 +34,6 @@ nav: true
 
 # Other dissemination activities 
 
-1. Lucile: co-convener of Open Session on the Magnetosphere, EGU General Assembly, Vienna, Austria, 2025.
+1. Turc, L.: co-convener of Open Session on the Magnetosphere, EGU General Assembly, Vienna, Austria, 2025.
  
-2. Veera: organisation and talk at the Night of Science, Tiedekulma, Helsinki, Finland, 2025.  
+2. Lipsanen, V.: public talk on space weather and event organisation at the Night of Science, Tiedekulma, Helsinki, Finland, 2025.  
