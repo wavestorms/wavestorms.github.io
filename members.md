@@ -7,7 +7,7 @@ nav: true
 ## Dr. Lucile Turc
 
 <div style="display: flex; align-items: center; gap: 1em;">
-  <img src="/assets/img/Lucile_Hobbiton.JPG" alt="Lucile Turc" style="width: 220px; height: 330px; border-radius: 50%; margin-right: 24px;">
+  <img src="/assets/img/Lucile_Hobbiton.JPG" alt="Lucile Turc" style="width: 220px; height: 330px; border-radius: 5%; margin-right: 24px;">
 
   <p>
   University Researcher<br>
