@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Kelvin-Helmholtz Instability
+title: Field line resonance schematic
 image: /assets/gallery/Field_line_resonance_schematic.jpeg
-caption: Field_line_resonance_schematic:
-Schematic of the field line resonance process, where a fast-mode wave propagating from the magnetopause inwards couples to an Alfvén wave along a resonant field line. 
+caption: Schematic of the field line resonance process, where a fast-mode wave propagating from the magnetopause inwards couples to an Alfvén wave along a resonant field line. 
 From Turc et al. [2025], Space Science Reviews.
 permalink: /gallery/Field_line_resonance_schematic/
 ---
