@@ -11,6 +11,12 @@ nav_pages:
   - members.md
   - research.md
   - publications.md
+  - gallery.md
+
+collections:
+  gallery:
+    output: true
+
 
 show_excerpts: true 
 
