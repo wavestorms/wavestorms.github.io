@@ -20,5 +20,17 @@ Image credit: Lucile Turc/Vlasiator"
   image: /assets/gallery/Overview_foreshock_nearEarthspace_text_1600x1000.png
   caption: "Overview of near-Earth space, highlighting the magnetopause, shock and foreshock, as simulated with the Vlasiator model for strong driving conditions (see Takahashi et al., 2021 and Turc et al., 2023 for more details on the simulation). The colour scheme shows the Bz (out-of-plane) magnetic field component.
 Image credit: Lucile Turc/Vlasiator"
+- id: Overview_Pc3_wave_transmission
+  title: "Overview Pc3 wave transmission"
+  thumb: /assets/gallery/Overview_Pc3_wave_transmission.jpeg
+  image: /assets/gallery/Overview_Pc3_wave_transmission.jpeg
+  caption: "Overview of near-Earth space, with the main steps of the transmission pathways of foreshock 30-second waves: (1) generation in the foreshock, (2) transmission through the magnetosheath, (3) entry into the magnetosphere in the equatorial region as fast-mode waves (3a) coupling with field line resonances (4a) and at high latitudes via modulated precipitation (3b) resulting in variations of the ionospheric conductivity (4b), eventually leading to (5) the observations of Pc3 pulsations on the ground.
+From Turc et al. [2025], Space Science Reviews"
+- id: Vlasiator_foreshock_waves
+  title: "Vlasiator foreshock waves"
+  thumb: /assets/gallery/Vlasiator_foreshock_waves.png
+  image: /assets/gallery/Vlasiator_foreshock_waves.png
+  caption: "Overview of the equatorial plane near-Earth space in a quasi-radial interplanetary magnetic field configuration, for two different interplanetary magnetic field strengths, as simulated with the Vlasiator model. The figure highlights the structuring of the foreshock wave field at different scales for a typical magnetic field strength at Earth (5 nT, top panel), and for enhanced field strength (10 nT, for example encountered during magnetic clouds). The different foreshock wave properties are presented in detail in Turc et al. [2018; 2019]. The figure combines two colourmaps which both show the ion density, but with ranges selected to highlight fluctuations in the magnetosheath and in the foreshock.
+Image credit: Lucile Turc/Vlasiator"
 
 
