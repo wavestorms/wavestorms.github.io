@@ -14,8 +14,8 @@
   image: /assets/gallery/Vlasiator_overview_near_Earth_space.jpeg
   caption: "Overview of the different regions and boundaries in the equatorial plane of near-Earth space, on the dayside. The background colours show the ion density, as simulated with the Vlasiator model.
 Image credit: Lucile Turc/Vlasiator"
-- id: Overview_foreshock_nearEarthspace_text_1600x1000
-  title: "Overview foreshock near Earth-space"
+- id: Overview_foreshock_nearEarthspace
+  title: "Overview foreshock near-Earth space"
   thumb: /assets/gallery/Overview_foreshock_nearEarthspace_text_1600x1000.png
   image: /assets/gallery/Overview_foreshock_nearEarthspace_text_1600x1000.png
   caption: "Overview of near-Earth space, highlighting the magnetopause, shock and foreshock, as simulated with the Vlasiator model for strong driving conditions (see Takahashi et al., 2021 and Turc et al., 2023 for more details on the simulation). The colour scheme shows the Bz (out-of-plane) magnetic field component.
