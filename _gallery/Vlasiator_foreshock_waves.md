@@ -2,7 +2,7 @@
 layout: default
 title: Vlasiator foreshock waves
 image: /assets/gallery/Vlasiator_foreshock_waves.png
-caption: "Overview of the equatorial plane near-Earth space in a quasi-radial interplanetary magnetic field configuration, for two different interplanetary magnetic field strengths, as simulated with the Vlasiator model. The figure highlights the structuring of the foreshock wave field at different scales for a typical magnetic field strength at Earth (5 nT, top panel), and for enhanced field strength (10 nT, for example encountered during magnetic clouds). The different foreshock wave properties are presented in detail in Turc et al. [2018; 2019]. The figure combines two colourmaps which both show the ion density, but with ranges selected to highlight fluctuations in the magnetosheath and in the foreshock. Image credit: Lucile Turc/Vlasiator"
+caption: "Overview of the equatorial plane near-Earth space in a quasi-radial interplanetary magnetic field configuration, for two different interplanetary magnetic field strengths, as simulated with the Vlasiator model. The figure highlights the structuring of the foreshock wave field at different scales for a typical magnetic field strength at Earth (5 nT, top panel), and for enhanced field strength (10 nT, for example encountered during magnetic clouds). The different foreshock wave properties are presented in detail in Turc et al. [2018; 2019]. The figure combines two colourmaps which both show the ion density, but with ranges selected to highlight fluctuations in the magnetosheath and in the foreshock. Image credit: Lucile Turc/Vlasiator."
 permalink: /gallery/Vlasiator_foreshock_waves/
 ---
 
