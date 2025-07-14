@@ -23,7 +23,7 @@ nav: true
 ## Dr. Souhail Dahani
 
 <div style="display: flex; align-items: center; gap: 1em;">
-  <img src="/home/souhadah/Documents/Helsinki/PostDoc/notes/Souhail.jpeg" alt="Souhail Dahani" style="width: 220; height: 385px; border-radius: 50%; margin-right: 24px;">
+  <img src="/assets/img/Souhail.jpeg" alt="Souhail Dahani" style="width: 220; height: 385px; border-radius: 50%; margin-right: 24px;">
 
   <p>
   Postdoctoral Researcher<br>
