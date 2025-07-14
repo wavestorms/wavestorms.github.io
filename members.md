@@ -18,3 +18,19 @@ nav: true
 
 </div>
 
+---
+
+## Dr. Souhail Dahani
+
+<div style="display: flex; align-items: center; gap: 1em;">
+  <img src="/home/souhadah/Documents/Helsinki/PostDoc/notes/Souhail.jpeg" alt="Souhail Dahani" style="width: 220; height: 385px; border-radius: 50%; margin-right: 24px;">
+
+  <p>
+  Postdoctoral Researcher<br>
+  Humble member of the WAVESTORMS project <br>
+  <br>
+Souhail Dahani is a postdoctoral researcher in the Space Physics Group at the University of Helsinki. His research focuses on near-Earth plasma dynamics, with a particular interest in dayside magnetic reconnection and foreshock physics. He investigates these processes through a combination of spacecraft observations and numerical simulations.
+Souhail earned his PhD from IRAP (Institut de Recherche en Astrophysique et Planétologie) in Toulouse in 2024, where he studied magnetic reconnection and flux transfer events. Outside of science, Souhail enjoys playing both classical and electric guitar.
+  </p>
+
+</div>
