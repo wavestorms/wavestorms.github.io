@@ -29,8 +29,7 @@ nav: true
   Postdoctoral Researcher<br>
   Humble member of the WAVESTORMS project <br>
   <br>
-Souhail is a postdoctoral researcher in the Space Physics Group at the University of Helsinki. His research focuses on near-Earth plasma dynamics, with a particular interest in dayside magnetic reconnection and foreshock physics. He investigates these processes through a combination of spacecraft observations and numerical simulations.
-Souhail earned his PhD from IRAP (Institut de Recherche en Astrophysique et Planétologie) in Toulouse in 2024, where he studied magnetic reconnection and flux transfer events (Souhail earned his PhD from IRAP (Institut de Recherche en Astrophysique et Planétologie) in Toulouse in 2024, where he studied magnetic reconnection and flux transfer events (<a href="https://theses.hal.science/tel-05034691" target="_blank" rel="noopener noreferrer">thesis link</a>). Outside of science, Souhail enjoys playing both classical and electric guitar.
+Souhail is a postdoctoral researcher in the Space Physics Group at the University of Helsinki. His research focuses on near-Earth plasma dynamics, with a particular interest in dayside magnetic reconnection and foreshock physics. He investigates these processes through a combination of spacecraft observations and numerical simulations. Souhail earned his PhD from IRAP (Institut de Recherche en Astrophysique et Planétologie) in Toulouse in 2024, where he studied magnetic reconnection and flux transfer events (<a href="https://theses.hal.science/tel-05034691" target="_blank" rel="noopener noreferrer">thesis link</a>). Outside of science, Souhail enjoys playing both classical and electric guitar.
   </p>
 
 </div>
