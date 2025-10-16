@@ -1,6 +1,6 @@
 ---
-layout: home
-title: WAVESTORMS
+layout: page
+title: About
 nav: true
 ---
 
