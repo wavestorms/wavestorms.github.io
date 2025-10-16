@@ -6,7 +6,7 @@ skin: auto
 
 # Navigation menu
 nav_pages:
-  - index.md
+  # - index.md
   - about.md
   - members.md
   - research.md
