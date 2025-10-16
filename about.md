@@ -1,7 +1,6 @@
 ---
 layout: home
-title: About
-permalink: /about/
+title: WAVESTORMS
 nav: true
 ---
 
