@@ -19,7 +19,9 @@ nav: true
 5. Turc, L., Archer, M. O., Zhou, H., Pfau-Kempf, Y., Suni, J., Kajdič, P., et al. Interplay between a foreshock bubble and a hot flow anomaly forming along the same rotational discontinuity. Geophysical Research Letters, 52, e2025GL116473. [https://doi.org/10.1029/2025GL116473
 ](https://doi.org/10.1029/2025GL116473), 2025 
 
-6. Lipsanen, V., Turc, L., Hoilijoki, S., Oliveira, D. M., Dahani, S., Tao, S., et al. Local time dependence of high-latitude Pc5 wave activity driven by interplanetary shocks and foreshock transients, using a new ULF index. Journal of Geophysical Research: Space Physics, 130, e2025JA034378 [https://doi.org/10.1029/2025JA0343782](https://doi.org/10.1029/2025JA0343782), 2025 
+6. Pfau-Kempf, Y., Papadakis, K., Alho, M., Battarbee, M., Cozzani, G., Pänkäläinen, L., Ganse, U., Kebede, F., Suni, J., Horaites, K., Grandin, M., and Palmroth, M.: Global evolution of flux transfer events along the magnetopause from the dayside to the far tail, Ann. Geophys., 43, 469–488, [https://doi.org/10.5194/angeo-43-469-2025](https://doi.org/10.5194/angeo-43-469-2025), 2025 
+
+7. Lipsanen, V., Turc, L., Hoilijoki, S., Oliveira, D. M., Dahani, S., Tao, S., et al. Local time dependence of high-latitude Pc5 wave activity driven by interplanetary shocks and foreshock transients, using a new ULF index. Journal of Geophysical Research: Space Physics, 130, e2025JA034378 [https://doi.org/10.1029/2025JA0343782](https://doi.org/10.1029/2025JA0343782), 2025 
 
 ---
 
