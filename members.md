@@ -33,3 +33,21 @@ Souhail is a postdoctoral researcher in the Space Physics Group at the Universit
   </p>
 
 </div>
+
+---
+
+## MSc Veera Lipsanen
+
+<div style="display: flex; align-items: center; gap: 1em;">
+  <img src="/assets/img/Veera.png" alt="Veera Lipsanen" style="width: 250; height: 330px; border-radius: 50%; margin-right: 24px;">
+
+  <p>
+  Doctoral researcher<br>
+  Regular member of the WAVESTORMS project<br>
+  <br>
+Veera is a doctoral researcher in the space physics group at the University of Helsinki. Her research focuses on wave activity driven by foreshock transients and understanding the solar wind context of foreshock transient formation. She uses ground and spacecraft observations and, in the future, also numerical simulations. Before starting her PhD, she worked as a research assistant in the group for two summers, studying ULF waves. In her free time, she likes to take walks with her dog, do all kinds of crafts, and read.
+  </p>
+
+</div>
+
+
