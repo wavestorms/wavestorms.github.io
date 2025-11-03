@@ -39,7 +39,7 @@ Souhail is a postdoctoral researcher in the Space Physics Group at the Universit
 ## MSc Veera Lipsanen
 
 <div style="display: flex; align-items: center; gap: 1em;">
-  <img src="/assets/img/Veera.png" alt="Veera Lipsanen" style="width: 250; height: 330px; border-radius: 50%; margin-right: 24px;">
+  <img src="/assets/img/Veera.png" alt="Veera Lipsanen" style="width: 220; height: 294px; border-radius: 50%; margin-right: 24px;">
 
   <p>
   Doctoral researcher<br>
