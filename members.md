@@ -50,4 +50,19 @@ Veera is a doctoral researcher in the space physics group at the University of H
 
 </div>
 
+---
+
+## Msc. Shi Tao (陶石, Táo Shí)
+
+<div style="display: flex; align-items: center; gap: 1em;">
+  <img src="/assets/img/TaoShi.jpg" alt="TaoShi" style="width: 220; height: 263px; border-radius: 50%; margin-right: 24px;">
+
+  <p>
+  Doctoral researcher<br>
+  Quiet member of the WAVESTORMS project<br>
+  <br>
+TaoShi is currently a doctoral researcher in the Wavestorms group at University of Helsinki. His research interests include magnetospheric convection, magnetosphere–ionosphere coupling, and foreshock transients. He completed Bachelor’s degree in space physics at Southern University of Science and Technology in Shenzhen, a major city in southern China. He worked on quantifying magnetospheric convection using Vlasiator during his master’s studies and is now focusing on the identification of foreshock transients and studying their impacts on the Earth’s magnetosphere. The aim of his doctoral thesis is to investigate wave activity and particle loss in near-Earth space associated with foreshock transients. In his spare time, he enjoys singing and playing Go, a strategic board game.
+  </p>
+
+</div>
 
