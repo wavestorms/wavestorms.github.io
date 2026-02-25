@@ -28,6 +28,7 @@ nav: true
 9. Tao, S., Alho, M., Zaitsev, I., Turc, L., Battarbee, M., Ganse, U., Pfau-Kempf, Y., and Palmroth, M.: Magnetospheric convection in a hybrid-Vlasov simulation, Ann. Geophys., 43, 709–721, [https://doi.org/10.5194/angeo-43-709-2025](https://doi.org/10.5194/angeo-43-709-2025), 2025. 
 
 10. Dahani, S., Turc, L., Lipsanen, V., Tao, S., Suni, J., Pfau-Kempf, Y., et al. (2026). Ion energization and acceleration associated with foreshock bubbles: Results from a hybrid-vlasov simulation and MMS observations. Journal of Geophysical Research: Space Physics, 131, e2025JA034665. [https://doi.org/10.1029/2025JA034665](https://doi.org/10.1029/2025JA034665), 2026. 
+
 ---
 
 # Submitted papers
