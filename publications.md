@@ -23,17 +23,15 @@ nav: true
 
 7. Lipsanen, V., Turc, L., Hoilijoki, S., Oliveira, D. M., Dahani, S., Tao, S., et al. Local time dependence of high-latitude Pc5 wave activity driven by interplanetary shocks and foreshock transients, using a new ULF index. Journal of Geophysical Research: Space Physics, 130, e2025JA034378 [https://doi.org/10.1029/2025JA0343782](https://doi.org/10.1029/2025JA0343782), 2025 
 
+8. Zhang, K., Dorfman, S., Turc, L., Ganse, U., Shi, C., Zhou, H. and Palmroth, M.: The Early-phase Growth of ULF Waves in the Ion Foreshock observed in a Hybrid-Vlasov Simulation, Journal of Geophysical Research (Space Physics), 130, e2025JA033848, doi:10.1029/2025JA033848, 2025. 
+
+9. Tao, S., Alho, M., Zaitsev, I., Turc, L., Battarbee, M., Ganse, U., Pfau-Kempf, Y., and Palmroth, M.: Magnetospheric convection in a hybrid-Vlasov simulation, Ann. Geophys., 43, 709–721, [https://doi.org/10.5194/angeo-43-709-2025](https://doi.org/10.5194/angeo-43-709-2025), 2025. 
+
+10. Dahani, S., Turc, L., Lipsanen, V., Tao, S., Suni, J., Pfau-Kempf, Y., et al. (2026). Ion energization and acceleration associated with foreshock bubbles: Results from a hybrid-vlasov simulation and MMS observations. Journal of Geophysical Research: Space Physics, 131, e2025JA034665. [https://doi.org/10.1029/2025JA034665](https://doi.org/10.1029/2025JA034665), 2026. 
 ---
 
 # Submitted papers
 
-1. Madanian, H., Palmroth, M., Pfau-Kempf, Y., Battarbee, M., Alho, M., Turc, L., Ganse, U., and Halekas, J.: Fragmented Bow Shock Morphology at Mars under Radial IMF Conditions, submitted to GRL 
-
-2. Zhang, K., Dorfman, S., Turc, L., Ganse, U., Shi, C., Zhou, H. and Palmroth, M.: The Early-phase Growth of ULF Waves in the Ion Foreshock observed in a Hybrid-Vlasov Simulation, submitted to JGR 
-
-3. Tao, S., Alho, M., Zaitsev, I., Turc, L., Battarbee, M., Ganse, U., Pfau-Kempf, Y., and Palmroth, M.: Magnetospheric convection in a hybrid-Vlasov simulation, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-1340, 2025. 
-
-4. Dahani, S., Turc, L., Lipsanen, V., Tao, S., Suni, J., Pfau-Kempf, Y., Kalliokoski, M., Palmroth, M., Gershman, D., Torbert, R., and Burch, J.: Ion Energization and Acceleration Associated with Foreshock Bubbles: Results from a Hybrid-Vlasov Simulation and MMS Observations, submitted to JGR: Space Physic.
 
 ---
 
@@ -49,10 +47,17 @@ nav: true
 
 5. Dahani, S., et al.: [Particle Energization Associated With Foreshock Transients: Results From a Hybrid-Vlasov Simulation and MMS Observations](https://10thmmsanniv.sciencesconf.org/643166/document), poster presentation, MMS 10th ANNIVERSARY & MMS 11th COMMUNITY WORKSHOP, Paris, France, 2025.
 
+6. Turc, L.: [Foreshock waves and transients: a review of advances in the Cluster era](https://clusterpmo.sciencesconf.org/program?lang=en), invited talk, joint Cluster-Plasma Observatory workshop, Paris, France, 2025.
+
+7. Dahani, S., et al: [Ion Energization Associated With Foreshock Transients: Results From a Hybrid-Vlasov Simulation and MMS Observations](https://clusterpmo.sciencesconf.org/program?lang=en), poster presentation, joint Cluster-Plasma Observatory workshop, Paris, France, 2025.
 ---
 
 # Other dissemination activities 
 
 1. Turc, L.: co-convener of Open Session on the Magnetosphere, EGU General Assembly, Vienna, Austria, 2025.
  
-2. Lipsanen, V.: public talk on space weather and event organisation at the Night of Science, Tiedekulma, Helsinki, Finland, 2025.  
+2. Lipsanen, V.: public talk on space weather and event organisation at the Night of Science, Tiedekulma, Helsinki, Finland, 2025. 
+
+3. Dahani, S.: Public talk on space weather and event organisation at the European Researchers' Night, University of Helsinki, Helsinki, 2025.
+
+4. Lipsanen, V and Dahani, S.: Event organisation at the Night of Science, Tiedekulma, Helsinki, Finland, 2026. 
