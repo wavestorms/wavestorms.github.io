@@ -51,6 +51,7 @@ nav: true
 6. Turc, L.: [Foreshock waves and transients: a review of advances in the Cluster era](https://clusterpmo.sciencesconf.org/program?lang=en), invited talk, joint Cluster-Plasma Observatory workshop, Paris, France, 2025.
 
 7. Dahani, S., et al: [Ion Energization Associated With Foreshock Transients: Results From a Hybrid-Vlasov Simulation and MMS Observations](https://clusterpmo.sciencesconf.org/program?lang=en), poster presentation, joint Cluster-Plasma Observatory workshop, Paris, France, 2025.
+
 ---
 
 # Other dissemination activities 
