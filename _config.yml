@@ -12,6 +12,7 @@ nav_pages:
   - journal.md
   - publications.md
   - gallery.md
+  - links.md
 
 collections:
   gallery:
