@@ -7,7 +7,7 @@ nav: true
 
 ## Next paper
 
-
+* 30 March 2026: [Prompt Response of the Dayside Magnetosphere to Discrete Structures Within the Sheath Region of a Coronal Mass Ejection](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL092700)
 
 ---
 
